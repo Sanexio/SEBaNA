@@ -1,0 +1,24 @@
+
+1. Aust J Adv Nurs. 1996 Winter;13(4):19-27.
+
+The development and evaluation of a computer-aided diabetes education program.
+
+Lo R, Lo B, Wells E, Chard M, Hathaway J.
+
+This paper describes the development and evaluation of a computer-aided learning 
+(CAL) program. The program was tested in a trial that involved 36 people with
+diabetes; 20 received CAL lessons in diabetes management and 16 attended
+conventional diabetes classes conducted by diabetes educators. When measurements 
+taken before and three months after the education were compared, both groups
+showed significant improvement in their knowledge; the blood glucose levels of
+the CAL group were significantly lower but those of the conventional education
+group were higher. This means that the CAL program was as effective as
+conventional education in imparting knowledge but it was more likely to motivate 
+people to control their glucose levels. The CAL program allows diabetes educators
+to spend less time on education in basic knowledge and to concentrate more on
+motivational and social factors that are important determinants of patient
+compliance. It can also benefit people with diabetes whose access to health
+professionals and/or conventional diabetes education is restricted.
+
+PMID: 8900703  [PubMed - indexed for MEDLINE]
+

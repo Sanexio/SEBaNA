@@ -1,0 +1,42 @@
+
+1. Diabetes Technol Ther. 2008 Jun;10(3):160-8. doi: 10.1089/dia.2008.0283.
+
+WellDoc mobile diabetes management randomized controlled trial: change in
+clinical and behavioral outcomes and patient and physician satisfaction.
+
+Quinn CC(1), Clough SS, Minor JM, Lender D, Okafor MC, Gruber-Baldini A.
+
+Author information: 
+(1)Division of Gerontology, Department of Epidemiology and Preventive Medicine,
+University of Maryland School of Medicine, Baltimore, MD, USA.
+cquinn@epi.umaryland.edu
+
+BACKGROUND: Less than 63% of individuals with diabetes meet professional
+guidelines target of hemoglobin A1c <7.0%, and only 7% meet combined glycemic,
+lipid, and blood pressure goals. The primary study aim was to assess the impact
+on A1c of a cell phone-based diabetes management software system used with
+web-based data analytics and therapy optimization tools. Secondary aims examined 
+health care provider (HCP) adherence to prescribing guidelines and assessed HCPs'
+adoption of the technology.
+METHODS: Thirty patients with type 2 diabetes were recruited from three community
+physician practices for a 3-month study and evenly randomized. The intervention
+group received cell phone-based software designed by endocrinologists and CDEs
+(WellDoc Communications, Inc., Baltimore, MD). The software provided real-time
+feedback on patients' blood glucose levels, displayed patients' medication
+regimens, incorporated hypo- and hyperglycemia treatment algorithms, and
+requested additional data needed to evaluate diabetes management. Patient data
+captured and transferred to secure servers were analyzed by proprietary
+statistical algorithms. The system sent computer-generated logbooks (with
+suggested treatment plans) to intervention patients' HCPs.
+RESULTS: The average decrease in A1c for intervention patients was 2.03%,
+compared to 0.68% (P < 0.02, one-tailed) for control patients. Of the
+intervention patients, 84% had medications titrated or changed by their HCP
+compared to controls (23%, P = 0.002). Intervention patients' HCPs reported the
+system facilitated treatment decisions, provided organized data, and reduced
+logbook review time.
+CONCLUSIONS: Adults with type 2 diabetes using WellDoc's software achieved
+statistically significant improvements in A1c. HCP and patient satisfaction with 
+the system was clinically and statistically significant.
+
+PMID: 18473689  [PubMed - indexed for MEDLINE]
+

@@ -1,0 +1,31 @@
+
+1. Patient Educ Couns. 1997 Nov;32(3):175-84.
+
+Long-term effects and costs of brief behavioural dietary intervention for
+patients with diabetes delivered from the medical office.
+
+Glasgow RE(1), La Chance PA, Toobert DJ, Brown J, Hampson SE, Riddle MC.
+
+Author information: 
+(1)Chronic Illness Research Group, Oregon Research Institute, Eugene 97403-1983, 
+USA. russ@ori.org
+
+This study evaluated the 12-month follow-up results and costs of a personalized, 
+medical office-based intervention focused on behavioral issues related to dietary
+self-management. Two hundred and six adults having diabetes attending an internal
+medicine outpatient clinic visit were randomized to either Usual Care or to Brief
+Intervention. The single session intervention involved touchscreen
+computer-assisted assessment that provided immediate feedback on key barriers to 
+dietary self-management, goal setting and problem-solving counselling. Follow-up 
+components included phone calls and videotape intervention relevant to each
+participant. Brief Intervention produced significantly greater improvement than
+Usual Care on multiple measures of change in dietary behaviour (e.g., covariate
+adjusted difference of 2.2% of calories from fat; p = 0.023) and on serum
+cholesterol levels (covariate adjusted difference of 15 mg/dl; p = 0.002) at
+12-month follow-up. There were also significant differences favouring
+intervention on patient satisfaction (p < 0.02) but not on HbA1c levels. The
+costs of intervention ($137 per patient) were modest relative to many commonly
+used practices.
+
+PMID: 9423499  [PubMed - indexed for MEDLINE]
+

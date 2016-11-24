@@ -1,0 +1,32 @@
+
+1. Diabetes Technol Ther. 2005 Oct;7(5):710-8; discussion 719-20.
+
+A randomized, controlled trial of an automated wireless messaging system for
+diabetes.
+
+Leu MG(1), Norris TE, Hummel J, Isaac M, Brogan MW.
+
+Author information: 
+(1)University of Washington School of Medicine, Seattle, Washington 98195-6340,
+USA.
+
+BACKGROUND: Aggressive management of blood glucose reduces future
+diabetes-related complications, but this is difficult to achieve.
+METHODS: This randomized, controlled study tested the effect of using a wireless 
+two-way pager-based automated messaging system to improve diabetes control
+through facilitated self-management. The system sent health-related messages to
+patients, with automatic forwarding of urgent patient responses to the health
+care team.
+RESULTS: Participants in both the experimental (pager) and the control groups
+experienced an average hemoglobin A1c decrease of 0.1-0.3%. More patients in the 
+pager group were normotensive, and more felt that their health care was better by
+the end of the study. A total of 79% of participants enjoyed using the pager, and
+68% wanted to continue using the system.
+CONCLUSIONS: Utilizing a wireless, automated messaging system in clinical
+practice is a feasible, low-cost, interactive way to facilitate diabetes
+self-management, which is acceptable to patients. While providing a convenient
+way for patients and providers to communicate, this system can support automated 
+recording and ready retrieval of these real-time interactions.
+
+PMID: 16241873  [PubMed - indexed for MEDLINE]
+

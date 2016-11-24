@@ -1,0 +1,35 @@
+
+1. Diabet Med. 2009 Jun;26(6):628-35. doi: 10.1111/j.1464-5491.2009.02732.x.
+
+A Ubiquitous Chronic Disease Care system using cellular phones and the internet.
+
+Yoo HJ(1), Park MS, Kim TN, Yang SJ, Cho GJ, Hwang TG, Baik SH, Choi DS, Park GH,
+Choi KM.
+
+Author information: 
+(1)Division of Endocrinology and Metabolism, Department of Internal Medicine,
+Korea University College of Medicine, Seoul, Korea.
+
+AIMS: The rapidly increasing prevalence of chronic diseases is an important
+challenge to healthcare systems worldwide. To improve the quality and efficiency 
+of chronic disease care, we investigated the effectiveness and applicability of
+the Ubiquitous Chronic Disease Care (UCDC) system using cellular phones and the
+internet for overweight patients with both Type 2 diabetes and hypertension.
+METHODS: We conducted a randomized, controlled clinical trial over 3 months that 
+included 123 patients at a university hospital and a community public health
+centre.
+RESULTS: After 12 weeks, there were significant improvements in HbA(1c) in the
+intervention group (7.6 +/- 0.9% to 7.1 +/- 0.8%, P < 0.001) compared with the
+control group (7.4 +/- 0.9% to 7.6 +/- 1.0%, P = 0.03). Furthermore, we observed 
+a significant reduction in systolic and diastolic blood pressure, as well as
+improvements in total cholesterol, low-density lipoprotein-cholesterol and
+triglyceride levels in the intervention group. Furthermore, there was a
+significant increase in adiponectin levels in the intervention group compared
+with the control group, although high-sensitivity C-reactive protein and
+interleukin-6 levels did not change in either group.
+CONCLUSIONS: The novel UCDC system presented in this paper improved multiple
+metabolic parameters simultaneously in overweight patients with both Type 2
+diabetes and hypertension.
+
+PMID: 19538239  [PubMed - indexed for MEDLINE]
+

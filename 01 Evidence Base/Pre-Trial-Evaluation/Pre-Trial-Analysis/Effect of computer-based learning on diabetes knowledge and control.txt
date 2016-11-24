@@ -1,0 +1,28 @@
+
+1. Diabetes Care. 1986 Sep-Oct;9(5):504-8.
+
+Effect of computer-based learning on diabetes knowledge and control.
+
+Wise PH, Dowlatshahi DC, Farrant S, Fromson S, Meadows KA.
+
+Two interactive computer-based systems have been evaluated: a teaching program
+with text and animated graphics and a multiple-choice knowledge-assessment
+program (KAP) with optional prescriptive feedback. One hundred seventy-four
+routine-attending insulin-dependent diabetes mellitus (IDDM) and
+non-insulin-dependent diabetes mellitus (NIDDM) patients were allocated to active
+and control groups to determine the effect of these programs on knowledge and
+control after a 4- to 6-mo follow-up period. Interactive computer teaching (ICT) 
+resulted in a significant knowledge increment in both IDDM and NIDDM patients (P 
+less than .05), together with a mean fall of 0.8 and 0.7%, respectively, in HbA1c
+(P less than .05 and P greater than .1), but no changes were observed in
+respective control groups. The KAP with feedback also produced a significant
+knowledge increment in both IDDM and NIDDM patients (P less than .05), of similar
+magnitude to the ICT program, and a mean fall in HbA1c of 1.2 and 1.3%,
+respectively (P less than .05), with no changes in the corresponding control
+groups. Even when KAP was used without prescriptive feedback, smaller but
+significant mean falls in HbA1c of 0.7 and 0.8% (P less than .05) were seen in
+IDDM and NIDDM patients, respectively, suggesting a motivational effect resulting
+from program participation.(ABSTRACT TRUNCATED AT 250 WORDS)
+
+PMID: 3533475  [PubMed - indexed for MEDLINE]
+
